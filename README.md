@@ -1,4 +1,4 @@
-force-graph
+force-graph for Represent 2SAT input to SCC output for that you can just ref=> Video from repository.
 ============================
 
 [![NPM package][npm-img]][npm-url]
