@@ -1,1 +1,1 @@
-Download the .zip and set the envoriment for PYTHON in you computer and run it.
+Download the.zip file, configure Python on your machine as needed and then launch it.
